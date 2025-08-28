@@ -9,5 +9,5 @@ Welcome! This repo contains my professional résumé and QA/Automation portfolio
 Java · Selenium · Postman · JMeter · SQL · AWS · Jenkins · CI/CD · Agile
 
 ## 📬 Connect With Me
-- [🔗 LinkedIn](https://www.linkedin.com/in/omarfaruk01/)
+- [🔗 LinkedIn](https://www.linkedin.com/in/omar-faruk-b683a9261/)
 - [🐙 GitHub](https://github.com/faruk-om)

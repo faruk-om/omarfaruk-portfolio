@@ -2,7 +2,7 @@
 
 Welcome! This repo contains my professional résumé and QA/Automation portfolio.
 
-## 📄 Résumé
+## 📄 Resume
 - [📄 View or Download Resume (PDF)](https://github.com/faruk-om/omarfaruk-resume/blob/main/Omar_Faruk_Resume.pdf)
 
 ## 🔧 Skills & Tools

@@ -1,9 +1,9 @@
 # 🧑‍💻 Omar Faruk – Senior QA Engineer
 
-Welcome! This repo contains my professional résumé and QA/Automation portfolio.
+Welcome! This repo contains my professional resume and QA/Automation portfolio.
 
 ## 📄 Resume
-- [📄 View or Download Resume (PDF)](https://github.com/faruk-om/omarfaruk-resume/blob/main/Omar_Faruk_Resume.pdf)
+- [📄 View or Download Resume (PDF)]("C:\Users\faruk\Desktop\Resume\Omar Faruk Resume.docx")
 
 ## 🧰 Tools & Technologies
 

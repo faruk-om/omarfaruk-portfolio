@@ -8,7 +8,7 @@ logo: /Omar_Faruk_Resume.pdf
 - Email: OmarSDET01@gmail.com  
 - Phone: 929-422-2415  
 - GitHub: [faruk-om](https://github.com/faruk-om)  
-- Resume: [Download PDF](./Omar_Faruk_Resume.pdf)
+- Resume: [Download PDF](https://github.com/faruk-om/omarfaruk-portfolio/blob/main/Omar%20Faruk%20Resume%20PDF.pdf)
 
 ## Technical Skills
 Selenium, Playwright, Postman, PyTest, Java, Python, SQL, AWS (Lambda, RDS, S3, CloudWatch), Jenkins, Terraform, JMeter
@@ -24,7 +24,6 @@ Selenium, Playwright, Postman, PyTest, Java, Python, SQL, AWS (Lambda, RDS, S3, 
 
 **Terraform QA Env** (2025)  
 - Provisioned EC2/S3/IAM for disposable test environments; `plan/apply/destroy` scripts.  
-- Repo: *link*
 
 **Performance Testing (JMeter)** (2024)  
 - 100 VU load test; CloudWatch correlation; 15% latency reduction.

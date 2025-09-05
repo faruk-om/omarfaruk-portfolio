@@ -2,3 +2,33 @@ title: Omar Faruk
 description: QA • Automation • AWS • CI/CD
 theme: jekyll-theme-minimal
 logo: /Omar_Faruk_Resume.pdf
+#  QA Portfolio
+
+## Contact
+- Email: OmarSDET01@gmail.com  
+- Phone: 929-422-2415  
+- GitHub: [faruk-om](https://github.com/faruk-om)  
+- Resume: [Download PDF](./Omar_Faruk_Resume.pdf)
+
+## Technical Skills
+Selenium, Playwright, Postman, PyTest, Java, Python, SQL, AWS (Lambda, RDS, S3, CloudWatch), Jenkins, Terraform, JMeter
+
+## Education
+- B.S., Computer IT Networking System – CUNY NYC Tech  
+- Certificates: Meta JS, Test Automation (Python)
+
+## Projects
+**API Test Framework (Python)** (2025)  
+- PyTest + Requests + GitHub Actions; env-based configs; HTML reports.  
+- Repo: *link*
+
+**Terraform QA Env** (2025)  
+- Provisioned EC2/S3/IAM for disposable test environments; `plan/apply/destroy` scripts.  
+- Repo: *link*
+
+**Performance Testing (JMeter)** (2024)  
+- 100 VU load test; CloudWatch correlation; 15% latency reduction.
+
+## Experience Highlights
+- **Virtus Solutions (2023–2025)** – Built Java/Python automation, AWS CI/CD, CloudWatch monitoring; cut defects 25%.  
+- **Fitch Ratings (2021–2022)** – Selenium/TestNG POM, API validation, SQL data checks; bug resolution 30% faster.
